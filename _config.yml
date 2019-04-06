@@ -79,3 +79,8 @@ sass:
   sass_dir: assets/partials
   style: compressed
 
+# Admin Setting
+jekyll_admin:
+  hidden_links:
+    - staticfiles
+    - datafiles
