@@ -59,8 +59,18 @@ defaults:
 url: "https://sandeepalluru.github.io/"
 baseurl: ""
 
+plugins:
+  - jekyll-paginate
+  - jekyll/tagging
+  - jekyll-admin
+
 # Includes
 include: ["_pages"]
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
 
 # Outputting
 permalink: /:categories/:title.html
@@ -84,3 +94,8 @@ jekyll_admin:
   hidden_links:
     - staticfiles
     - datafiles
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_index
+tag_permalink_style:  pretty

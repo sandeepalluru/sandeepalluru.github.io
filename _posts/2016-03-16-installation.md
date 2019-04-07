@@ -5,10 +5,7 @@ title: "Installation"
 category: 
 - docs
 - help
-tags:
-- installation
-- steve
-- jekyll
+tags: [installation,steve,jekyll]
 ---
 
 <figure class="aligncenter">

@@ -7,10 +7,7 @@ comments: false
 category: 
 - docs
 - help
-tags:
-- documentation
-- steve
-- jekyll
+tags: [documentation,steve,jekyll]
 ---
 
 ### Configuration

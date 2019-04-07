@@ -5,6 +5,7 @@ title:  "Sample Data"
 mood: happy
 category: 
 - docs
+tags:
 ---
 
 Markdown (or Textile), Liquid, HTML & CSS go in. Static sites come out ready for deployment.
