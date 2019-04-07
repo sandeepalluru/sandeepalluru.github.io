@@ -56,7 +56,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: "https://sandeepalluru.github.io/"
+url: "https://sandeepalluru.github.io"
 baseurl: ""
 
 plugins:
